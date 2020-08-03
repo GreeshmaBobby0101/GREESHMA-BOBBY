@@ -1,0 +1,227 @@
+\\\\\\\\\\\\\\\\\\\\\\chapter 16////////////////////////
+
+
+
+ MANUAL_FILMING//////////////
+
+
+ 
+ 
+ 
+ What are the functions supported by manual filming composer
+ 
+ 
+ 
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the functions supported by manual filming composer", 
+        "text": [
+          "STEP 1:Select the images from image browser by exam, series or image level.", 
+		  "STEP 2:Organize the multiple patients’ filming jobs at the film interface.",
+          "STEP 3:Setup the film layout easily. ",
+		  "STEP 4:Copy/cut/paste/insert/delete the images on the composer.", 
+		  "STEP 5:Review the film job from the film history.",
+          "STEP 6.:Edit the image annotation."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+FILM_COMPOSER_SCREEN/////////////////////
+
+
+
+
+
+How to view the film composer screen
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to view the film composer screen", 
+        "text": [
+          "STEP 1:Open the Film Composer to view the Film Composer screen."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+SET_THE_PRINT_SERIES_PARAMETERS/////////////
+
+
+
+
+How to set the print setting parameters
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set the print setting parameters", 
+        "text": [
+          "STEP 1: On the display monitor, click in one of the lower viewports.",
+          "STEP 2: Click List Select.",
+          "STEP 3: Select an exam, series, and image.",
+          "STEP 4: Click the Manual Film Composer icon.",
+          "STEP 5: Place the cursor in the image/series to be used for Print Series.",
+          "STEP 6: Press F4.",
+          "STEP 7: Set the Print Series parameters.",
+          "STEP 8: Click Print Series."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+IMAGE_WORKS////////
+
+
+
+How to film images using image works
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to film images using image works", 
+        "text": [
+          "STEP 1: From the Manual Film Composer screen, complete the following:",
+          "*Set Print setting.",
+          "*a. Select layout.",
+          "STEP 2: Place the cursor over the image you want to film and use one of the following film methods:",
+          "*Film single image: press F1 and the currently active image is placed in the next available film frame.",
+          "*Film Screen: Set the image display format to the number of views you want displayed according to the layout you have opened, then press F2.",
+          "*Film MID: set the image display format to the number of views you want displayed within each film frame, then press F3."
+        ]
+      }
+    ]
+  ]
+}
+
+
+SEMI_AUTOMATIC_FILMING///////////////////
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures for semi automatic filming?", 
+        "text": [
+          "STEP 1:Click the ImageWorks icon.",
+          "STEP 2:From the browser patient list, select the desired images.
+                  When an Exam is high-lighted, all images in the first series are selected. When a Series is high-lighted, all images in the series are selected.
+                  If you want to select multiple series or exams, you can use [Shift] or [Ctrl] button.",
+          "STEP 3:Click [Filming] button from the Data Apps area. Film composer will display and the selected images willbe loaded to film composer.",
+          "STEP 4:Edit the images in the film composer.",
+          "STEP 5:When the Film Composer screen is ready for print, click Print."    
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+FILM_HISTORY////////////////////////////	
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to make a history of films?", 
+        "text": [
+          "STEP 1:Click [Film History] button to display a history of what jobs have been printed, the history window opens.",
+          "STEP 2:View the list jobs you have printed, or remove jobs by Patient Name or ID from the history list which have finished printing.",
+          "STEP 3:Click [Setting] button, to set up the auto delete period in days. For example, if you set 30, the system will delete jobs from the history list after 30 days."    
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+FILM_QUEUE/////////////////////////
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to control the film queue?", 
+        "text": [
+          "STEP 1:Click [Film Queue] button, the printing queue window opens.",
+          "STEP 2:Click [Pause] to pause the selected printing jobs.",
+          "STEP 3:Click [Resume] to resume the jobs which be paused.",
+          "STEP 4:Click [Refresh] to refresh the printing job list.",
+          "STEP 5:Click [Clear] to delete the selected printing jobs.",
+          "STEP 6:Click [Close] to close."       
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+

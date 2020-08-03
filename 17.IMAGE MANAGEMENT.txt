@@ -1,0 +1,1454 @@
+\\\\\\\\\\\\\\\\\\\\\CHAPTER 17/////////////////////////
+
+
+
+
+
+
+REFRESH_DATABASE//////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to update the patient list? ", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: From the Patient List controls, click the Refresh icon.",
+          "* The database from the currently selected source, updates. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+PATIENT_LIST_EXAM_NUMBER///////////
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to search exam number in the patient list?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: In the Exam area, click Find and select a category. For example, Exam.",
+          "STEP 3: In the Find text box, type the exam number you want to locate. For example, 121.",
+          "*The exam is selected in the Exam list if it is in the active data base.",
+          "*If the exam is not in the data base, it locates a number that starts with the entered number. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+REMOVE_IMAGES_FROM_PATIENT_LIST///////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to remove images from the patient list?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: From the Patient List, select the exams/series/images you want to send to remove.",
+          "*Click an individual item.",
+          "*Press Shift and simultaneously click the first and last item.",
+          "*Press Ctrl and simultaneously click individual items.",
+          "STEP 3: Click the Delete icon located above the Exam, Series, or Image list.",
+          "STEP 4: Click Yes to remove the exams/series/images. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+SORT_THE_PATIENT_LIST_ASC_DESC////////////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to sort the data in patient list using ascending or descending order method?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: From the Patient List, click a menu bar title.",
+          "*The Patient List is sorted by menu item. For example, if you click Name, the list is sorted alphabetically by patient name.",
+          "*The menu item with the arrow is the active sort method.",
+          "STEP 3: Click the arrow next to the menu item to change the sort order.",
+          "*An up arrow indicates an ascending sort order.",
+          "*A down arrow indicates descending sort order. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+  
+  
+  
+SORT_THE_PATIENT_LIST_NMR_RELTD////////////////////
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to sort the patient data using numerically or related series?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: Click Tools > Series Sort Configuration.",
+          "STEP 3: From the Series Sort Configuration screen, select a sort method.",
+          "*Numeric Sort sorts the series by number, e.g., 1, 2, 3, 200, 300.",
+          "*Related Series Sort sorts the series by related numbers, e.g., 1, 2, 200, 3, 300. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+ADJUST_W/L_IMAGES
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to adjust images w/l values of patient list?", 
+        "text": [
+          "STEP 1:Click the ImageWorksicon.",
+          "STEP 2:Click an image in the Image List areas.",
+          "STEP 3:Adjust the W/L.",
+          "*Middle-click and drag the cursor.",
+          "*You must start the W/L adjustment with the cursor within the image, but with the mouse buttonheld down, you can move the cursor outside the image.",
+          "*All images in the list are adjusted. You cannot independently adjust the W/L for a single image. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+ZOOM_IMAGES//////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to zoom the images?", 
+        "text": [
+          "STEP 1:Click the ImageWorksicon.",
+          "STEP 2:Click an image in the Image List area.",
+          "STEP 3:Adjust the zoom.",
+          "*Right-click and drag the cursor up to magnify the image and move the cursor down to minify theimage.",
+          "*You must start the zoom adjustment with the cursor within the image, but with the mouse buttonheld down, you can move the cursor outside the image.",
+          "*All images in the list are adjusted. You cannot independently adjust the zoom for a single image. "   
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+SCROLL_IMAGES
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to scroll the images?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: Click an image in the Image List area.",
+          "STEP 3: Adjust the scroll.",
+          "*Click and drag the cursor in the direction you want to move the image.",
+          "*You must start the scroll adjustment with the cursor within the image, but with the mouse button held down, you can move the cursor outside the image to adjust the scroll.",
+          "*All images in the list are adjusted. You cannot independently adjust the scroll for a single image. "         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+KEYBOARD_SHORTCUTS////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the functions of keyboard shortcuts?", 
+        "text": [
+          "*Delete key deletes selected items and displays a prompt. Click Yes or No to the delete confirmation prompt.",
+          "*Press Ctrl and simultaneously press A to select all items in the patient list. For example, with an exam selected, press Ctrl+A to select all series within the exam.",
+          "*Press Shift and simultaneously click the first and last item to select a contiguous range of items.",
+          "*Press Ctrl and simultaneously click individual items to select a non-contiguous range of items. "         
+        ]
+      }
+    ]
+  ]
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ARCHIVE_NETWORK/////////////////////
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to configure network host screen?", 
+        "text": [
+          "STEP 1:Click the ImageWorks icon to open the ImageWorks desktop. From the Tools menu, click Network Configuration.",
+          "STEP 2:The Configured Hosts area lists of all the archive and network nodes. See Configure a host. You can size the columns and move/remove the nodes on the list. "       
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ ARCHIVE_NODE_SETTINGS//////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to adjust archive node settings?", 
+        "text": [
+          "*Select the Archive Node option to place the selected node in the Archive destinations located at the bottom of the ImageWorks desktop.",
+		  "*Only devices or nodes that have this option checked can be used as an archive device.",
+		  "*Not all hosts can be used as archive nodes (for example, another CT system cannot be used as an archive node, but a PACS system can be used as an archive node).",
+          "*To be a successful archive node, the node must meet certain DICOM requirements so that when the data is transferred from the host system to the node, the DICOM handshake can be successful. This is not necessary for networking images. The same handshake is not required.",
+          "*The storage commitment host details are populated from the selected Remote Host information. These fields can be edited. "         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SERVICE_CLASS_USER_SETTINGS//////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to change in SCU SETTINGS?", 
+        "text": [
+          "STEP 1:Select Query Retrieve to ping and retrieve images from the currently selected node.",
+          "STEP 2:Select Custom research to filter the patient list of the selected node. When you select the current node from the Source menu, the Filter Data screen automatically appears.",
+          "In the SCP Settings area:",
+          "*Select Allow to retrieve to give the currently selected remote node the ability to query your host system.",
+          "*Select Allow to query to give the currently selected remote node the ability to retrieve from your host system.",
+          "*Select Allow to send to give the currently selected remote node the ability to send to your host system."         
+        ]
+      }
+    ]
+  ]
+}
+
+    
+	
+	
+	
+	
+	
+	
+	
+	
+ADD_OR_EDIT_NETWORK_HOST	
+	
+	
+	
+	
+	
+	
+	
+	{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to add or edit network host?", 
+        "text": [
+          "STEP 1: From the Configure Network Hosts screen, click Add.",
+          "STEP 2: In the Remote Host Information area, complete all fields.",
+          "STEP 3: In the Archive Node Settings area, complete all fields.",
+          "STEP 4: In the Services area, select the desired options.",
+          "STEP 5: Click Save to save the settings for the currently selected node.",
+          "STEP 6: Click OK."         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MOVE_NODES_ON_CONFIGURATION_LIST//////////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to move nodes on the configuration list?", 
+        "text": [
+          "STEP 1: From the Configured Hosts List, select the node you want to move.",
+          "STEP 2: Click the up/down arrows to move the selected node to a new destination on the configuration list.",
+          "STEP 3: Click OK to update the Archive and Network destinations located at the bottom of the ImageWorks desktop. "         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ADJUST_COLUMN_SIZE_ON_CONFIGURED_HOSTS_MENU_BAR////////////////
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to adjust the column size on the configured hosts menu bar?", 
+        "text": [
+          "STEP 1:From the Configured Hosts List, click and drag the line that divides two items on the menu bar to change the space allowed for a column of data."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+REMOVE_NODES_FROM_CONFIGURATION_HOSTS_LIST///////////////
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to remove the nodes from the configuration hosts lists?", 
+        "text": [
+          "STEP 1: From the Configured Hosts List, select the node you want to remove.",
+          "STEP 2: From the Configure Network Hosts screen, click Remove.",
+          "STEP 3: Click Yes to the confirmation prompt."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PING_REMOTE_HOST/////////////
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to ping a remote host?", 
+        "text": [
+          "STEP 1: From the Configured Hosts List, select the node you want to ping.",
+          "STEP 2: From the Configure Network Hosts screen, click Ping.",
+          "STEP 3: Click OK to the message prompt.",
+          "STEP 4: If a failure occurs, read the prompt to help determine the cause of the failure."         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEFINE_A_HOST////////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to define a host?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "*Click Tools > Network Configuration.",
+          "STEP 2: From the Configure Network Hosts screen, select a host in the Configured Hosts list that you want to add to the Archive destinations located at the bottom of the ImageWorks desktop.",
+          "STEP 3: Click Edit.",
+          "*If the node you want to define as an archive node is not on the Configured Hosts list, you must add it to the list.",
+          "STEP 4: In the Archive Node Settings area, select Archive Node.",
+          "STEP 5: Click Save to add the node to the Archive destinations.",
+          "STEP 6: Click OK."         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+
+
+
+
+LOCAL_DB_RESTORE_IMAGE////////////////
+
+
+
+
+
+
+
+
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to restore images from remote host?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: Click Source and select a remote Archive host.",
+          "*If the host is not available, a message appears. Read the message and click OK.",
+          "*The host must be configured to receive a query. Check the SCP Settings on the Configure Network Hosts screen to verify that all the SCP1 settings have been checked (Allow to query, Allow to retrieve, Allow to send).",
+          "STEP 3: Optional: Refine the remote Patient List.",
+          "*a. Click the Filter icon to open the Filter Data screen.",
+          "*b. Click Available Filters and select a filter or type text into the desired fields.",
+          "*c. Click OK to apply the filter.",
+          "*The filtered Patient List displays.",
+          "*d. To return to the non-filtered Patient List, click the Erase icon.",
+          "STEP 4: From the remote Patient List, select the exam, series, or images you want to retrieve.",
+          "*Click an individual item.",
+          "*Press Shift and simultaneously click the first and last item.",
+          "*Press Ctrl and simultaneously click individual items.",
+          "STEP 5: In the Destinations area of the Patient List, click Local DB to begin the restore process.",
+          "STEP 6: View the archive or network status in the Feature Status area to view the state of the images as they are transferred to the local database.",
+          "*Jobs are performed in a first come first served basis.",
+          "*When the data has been successfully transferred to the Local DB, the archive device label is displayed in the series Archived On column.",
+          "*When the data has been successfully transferred to a network host, the label of the host is displayed in the series Transferred To column.",
+          "*Roll the cursor over the names displayed in the Archived On or Transferred To columns to see more details. "         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MANUALLY_SEND_EXAM_SERIES_IMAGE////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to send ,exam,series,image to a archive or network host as an alternative to auto achieve?", 
+        "text": [
+          "STEP 1:Click the ImageWorks icon.",
+          "STEP 2: From the Patient List, select the exam, series, or images you want to send.",
+          "*Click an individual item.",
+          "*Press Shift and simultaneously click the first and last item.",
+          "*Press Ctrl and simultaneously click individual items.",
+          "STEP 3: Click the corresponding button in the destination group that represents where you want to send the data.",
+          "*The data transfer process begins.",
+          "STEP 4: View the Job Management screen or the archive and network status in the Feature Status area to view the state of the images as they are transferred to the archive or network host.",          "*Jobs in the queue are performed in first come first served basis.",
+          "*When saving images to a remote archive device such as a PACS, items queued are performed in first come first served basis.",
+          "*When the data has been successfully transferred to an archive device, the archive device label is displayed in the series Archived On column.",
+          "*When the data has been successfully transferred to a network host, the label of the node is displayed in the series Transferred To column.",
+          "*Roll the cursor over the names displayed in the Archived On or Transferred To columns to see more details. "         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ARCHIVE_NETWORK_GSPS_SERIES////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to archive or network GSPS series when you have images saved with the save state function?", 
+        "text": [
+          "STEP 1: Press Ctrl and simultaneously select the source series and the associated GSPS series from the Patient List.",
+                "*For example, select PROSP2 series 2 and GSPS series 10002.",
+          "STEP 2: To archive or network, continue with the Manual archive/network procedure.",
+                "*If a host other than the one displayed is desired, before you send the series, define a host.",
+                "*If networking to a PACS, the system must be able to receive GSPS objects. When restoring a GSPS series, you must also restore the original PROSP series."         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VIEW_THE_BACKLOG_QUEUE/////////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": " What are the steps to view a backlog of archive?.", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: Click the Job Management icon.",
+          "STEP 3: From the Job Management screen, click Show Jobs and select an option to refine the lists.",
+          "STEP 4: From the Registered Jobs list, select the jobs you would like to change.",
+                   "*Click an individual item.",
+                   "* Press Shift and simultaneously click the first and last item.",
+                   "* Press Ctrl and simultaneously click individual items.",
+          "step 5:Choose the desired job action:",
+                   "*Click Pause to place the selected items in the list into a paused state.",
+                   "*Click Retry/Resume to initiate the job of the selected items in the list.",
+                   "*Click Delete to remove a transmission from the queue. A message confirms the deletion.",
+                   "*Click Clear to delete Completed Jobs from the list.",
+         "step 6: Click Close. "         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELETE_JOBS_FROM_COMPLETED_JOBS_LIST////////////////////////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to delete jobs from the Completed Jobs list?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.:,
+          "STEP 2: Click the Job Management icon.",
+          "STEP 3: From the Job Management screen, click Clear to remove the selected jobs from the list.",
+          "STEP 4: Click Close."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+DETACH_MEDIA////////////////////////////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to detach a CD, DVD, or USB media device?", 
+        "text": [
+          "STEP 1: Make sure a CD, DVD, or USB is inserted in the appropriate drive.",
+          "STEP 2: Check the Archive/Network backlog to verify that all image transfer from the device is complete.",
+          "STEP 3: Click the ImageWorks icon.",
+          "STEP 4: Click Tools > Detach Media.",
+          "STEP 5: From the Detach Media screen, select the media to detach from the menu.",
+          "STEP 6: Click Detach and wait for the "Media Detached" message before ejecting the device from the drive.",
+          "STEP 7: Click Close to exit."       
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHECK_THE_NETWORK_HISTORY/////////////////////////////////////
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to Check the network history?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: Click the Job Management icon.",
+          "STEP 3: From the Job Management screen, click the Network History tab.",
+          "STEP 4: Look through the log to find the exam number of the network history you wish to see.",
+                   "* Entries are listed how the job was queued for transfer. If by Exam, then only the exam number is listed. If by Series, then the exam and series are listed. If by Image, then the exam, series, and image are listed.",
+          "STEP 5: Type a specific exam/series/image number into the Search ESI or Host field.",
+                   "*The history file for all matches to the exam/series/images you typed displays.",
+                   "STEP 6: Click the Refresh icon to update the network history log.",
+          "STEP 7: Click Close."         
+        ]
+      }
+    ]
+  ]
+}
+
+ 
+ 
+ 
+ 
+ WORK_AROUNDS/////////////
+ 
+ 
+ 
+ 
+ {
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the things to be considered when archiving images using work-arounds?", 
+        "text": [
+          "STEP 1: Images archived on an Advantage Windows system may fail to restore on the system. Use Network to transfer images from the Advantage Windows to the system.",
+          "STEP 2: Restoring exam, series, or images that already exist on the system disk will not post a message that the images are restored or that they already exist. If you have restored images, but do not get a message that they have been restored, verify that they do not already exist on the system disk.",
+          "STEP 3: To minimize corruption of MODs, it is extremely important the MOD media be detached and removed from the MOD drive before doing a shutdown or recycling power to the system.",
+          "STEP 4: If the system is unable to read the media, remove the write protect and see if the system is able to perform a recovery of the media to access the data."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+OPERATIONAL_REQUIREMENTS///////////////
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the operational requirements for CD/DVD/USB interchanges?", 
+        "text": [
+          "STEP 1:DVD-R only support single-session write mode, not support multi-session mode, cannot append write data on DVD-R have been burned.",
+          "STEP 2:DVD Interchange are NOT INTENDED for archive or backup purposes! These features make only "temporary copies" for interchange purposes.GEHC will not "recover" any interchange media (it should just be burned again if necessary using patient data restored from authorized/provided archive media)."
+          "STEP 3:It is advised not to write CD/DVD/USB during scan operations.",
+          "STEP 4:It is advised not open post processing applications requiring high computer usage while writing to CD/DVD/USB ."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+MEDIA_CREATOR_SCREEN////////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to open the media creator screen?", 
+        "text": [
+          "STEP 1:Click the ImageWorks icon to open the ImageWorks desktop. From the Data Apps, click CD/DVD/USB to open the Media Creator screen."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+INTERCHANGE_CD_DVD_USB///////////
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to handle CDs and DVDs?", 
+        "text": [
+          "*CAUTION:To avoid image loss, never touch the recording surface of a recordable CD (CD-R). Handle the disk only by the outer edge or central hole. Do not place it face down on a hard surface. Fingerprints or scratches will make the disk unusable.",
+          "*Store the disc in the protective case. Proper storage helps protect the data from damage due to scratches on the disc surface.",
+          "*Do not leave the disc in direct sunlight or in a hot, humid environment. These conditions can warp and damage the disc.",
+          "*Use only a felt tip permanent pen when labeling. Write only on the clear inner diameter of the disk (or the printed area of a CD-R). Never use a ballpoint or hard point writing tool as it may damage the disc. Do not use adhesive labels.",
+          "*Use a soft, lint-free cloth to remove spots, dust, or fingerprints from the disc. Always wipe from the center to the outside edge of the disc. Never wipe the disc in a circular motion.",
+          "*Do not use any chemical-based cleaners. These can damage the disc.",
+          "*Do not use the CD/DVD/USB program to permanently store your data. If the CD/DVD/USB is scratched there is no recovery of the data."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+SAVE_IMAGES_CD_DVD_USB//////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to save a images from your system to a cd or dvd or usb device?", 
+        "text": [
+            "*You can record DICOM image data to either a blank, compatible CD/DVD that is placed in the CD/DVD read/write external drive or to a USB device inserted into one of the USB drives. If saving to CD/DVD, once you close the drawer with the CD/DVD in it, wait until the CD/DVD drive light turns off. This is an indication that the CD-R or DVD-R is spinning up to speed.",
+             "*A CD-R or DVD-R can only be recorded once. All image data that you want to record on a given CD-R or DVD-R must be selected beforehand. The data will be recorded in a single pass. It is not possible to add data on a CD-R or DVD-R.",
+             "*Image data can also be recorded on CD-R in PDF1 or HTML2 format, using the Data Export function.",
+             "* You cannot load images on a USB device that already has stored data stored. A prompt appears indicating that if you continue, it will erase all data on the USB device. It is advisable to only use a USB device with no data on it.",
+            "STEP 1:From the Data Apps list, click CD/DVD/USB.",
+            "STEP 2: From the Media Creator screen, select the media type from the Media menu.If you opened the Media Creator screen before you inserted a device into a drive, click the Refresh",
+            "STEP 3: To save a Viewer with the images, select Include Image Viewer.If you do not select Include Image Viewer, you will not be able to view the images on a PC or laptop. The purpose of saving the images without the Viewer is to transport them to another compatible system.",
+            "STEP 4: Select the desired exams or series from the Patient List.",
+                      "* Click an individual items",
+					  "* Press Shift and simultaneously click the first and last item.",
+                      "*Press Ctrl and simultaneously click individual items.",
+             "step 5: From the Media Creator screen, click Add.",
+                      "*The selected exam/series/images are added to the Media Creator list.",
+                      "*The Total Size display updates as more exams/series/images are added to the list. Toggle Include Image Viewer on/off to see updated Total Size display.",
+                      "*A message displays if the size of the exams/series/images exceeds the space on the CD/DVD or USB device.",
+                      "*You cannot add the same exam to the screen more than once. A message displays that you have entered the same patient more than once. Remove one of the exams.",
+             "step 6: Optional: Clear exams or series from the Media Creator list.",
+                      "*a. From the Media Creator screen, select the desired series and/or exams you wish to clear.",
+                      "*Press Ctrl and simultaneously click individual items to remove non-contiguous items on the list.",
+                      "*Press Shift and simultaneously click the first and last item to remove contiguous items on the list.",
+                       "*b. click Remove.",
+              "step 7: Click the Copy icon to start the recording process.",
+                      "*do not begin recording until all desired series have been added to the list. You cannot record more data to the CD-R or DVD-R once you have started the recording process.",
+                      "*The message/progress bar displays messages and a progress bar indicating the progression of the copy activity.",
+                      "*Error prompts may appear if the media is damaged, if the media is not blank, the files are too large for a single media, etc.",
+                      "*The progress bar displays 100% and a message appears in the message area when recording is completed.",
+                      "*Very large data sets can take a very long time (more than one hour) to copy to CD. If you change your mind about copying the files to CD/DVD, you can quit copying and start it over at a time more convenient. Click Quit to cancel the copy process and upon clicking OK to the confirmation prompt, the copy process is stopped and the Media Creator screen closes. An alternative is to click Cancel.",
+               "step 8: Once the recording is finished, click Close icon .",
+                       "*If you click Close before the completion of the save process, a confirmation prompt appears. If you confirm the Close, then the save process is canceled.",
+                       "*The Stop icon stops burning data.",
+               "step 9: To view the Media Creator screen again, click CD/DVD/USB from the Data Apps list.",
+                       "*View the progress bar to note if the burning process is finished.",
+               "step 10: When the contents have been burned to the media, a message posts in the Message area. It is now safe to remove the CD/DVD or USB",
+			   "step 11: Click the Eject icon to remove the media from the drive.",
+                         "* The CD/DVD drive automatically opens when the CD/DVD save is finished. Only click Eject to stop the CD/DVD save process.",
+                         "*Removing the USB device without ejecting it can results in errors that may require the device to be reformatted.",
+                         "*Do not remove the USB device during copy process. Make sure you first Stop the copy process before you remove the device from the drive",				  
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+RESTORE_IMAGES_CD_DVD_USB////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to restore images from a CD/DVD or USB device to your system.?", 
+        "text": [
+          "STEP 1: Place a CD-R or DVD-R in the CD/DVD external drive or place a USB device into one of the USB drives. Wait until the drive light turns off, which is an indication that the CD-R or DVD-R is spinning up to speed.",
+          "STEP 2: Click the ImageWorks icon.",
+          "STEP 3: From the header area, click Source and select the drive that has the CD/DVD or USB device in it.",
+                   "*Since you can restore a CD/DVD from either drive, if you select one drive and it is not the drive with the CD/DVD in it, then select the other drive.",
+          "STEP 4: From the Patient List, select the exam/series/images you want to restore.",
+                  "*Click an individual item.",
+                  "*Press Shift and simultaneously click the first and last item.",
+                  "*Press Ctrl and simultaneously click individual items.",
+          "STEP 5:  In the Destinations area of the Patient List, click Local DB to begin the restore process.:,
+          "STEP 6: To view the restore process status, see the View the backlog/queue procedure.",
+          "STEP 7: When the restore process is finished, indicated by a message, eject the device. From the ImageWorks desktop, click Tools > Detach Media.",
+                  "*It is now safe to remove the USB device from the drive and to remove the CD/DVD from the drive."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+VIEW_IMAGES_PC_LAPTOP/////////////////////////////////////////
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to view images from a CD/DVD inserted in your PC or laptop?", 
+        "text": [
+          "STEP 1: Load a recorded CD-R or DVD-R into the drive of your PC or laptop running Windows XP, Windows Vista, or Windows 7 operating system and containing Java 1.5 or higher versions.",
+                  "* The CD Viewer automatically launches. ","
+                  "*If an Auto Play window displays, click Run CDViewer.exe.",
+                  "*Media Viewer is not supported on an Apple computer.",
+          "STEP 2: Click Accept to the license agreement.",
+          "STEP 3: From the DataSelector, select an exam and wait until the data is loaded.",
+                  "*Your PC or laptop must contain Java run time environment as JRE1.5_14 or higher version. If not, the Java, bundled with the application, is installed on demand.",
+          "STEP 4: Select a series to view.",
+          "STEP 5: Use the Media Viewer image controls, located at the top of the Media Viewer, to manipulate the images."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REMOVE_DVD_RAM_CARTRIDGE/////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure and precautions to be followed to remove the disc from the cartridge?", 
+        "text": [
+          "STEP 1:Remove the disc.",
+                 "*a.Push and remove the cartridge-locking pin with a sharp-tipped object, such as a ballpoint pen.",
+                 "*b.Open the cover by pushing the sharp-tipped object into the gap on the left-front side of thecartridge.",
+         "STEP 2: Do not touch the recording surface.",
+                 "*Fingerprints, dirt, dust and scratches on the recording surface can destroy previously recordeddata and prevent recording of additional data.",
+         "STEP 3: Open the cover with care.",
+                 "*If you damage the cover, you my not be able to close it again.",
+         "STEP 4: Use a felt-tipped marker to write on the label.",
+                 "*Never stick a new label on a disc.",
+         "STEP 5: Store only DVD-RAM disc cleaner and cleaning fluid (not included).",
+                 "*Do not use benzene, paint thinner, or anti-static cleaners.",
+         "STEP 6: Always return a disc to its cartridge for storage.",
+                "*Clean dirty discs only with the special DVD-RAM disc cleaner and cleaning fluid (not included)",
+                "*Do not use benzene, paint thinner, or anti-static cleaners.",
+         "STEP 7: Make sure the printed side of the shutter and the printed side of the disc is facing the same side when returning the disc to its cartridge. Also, note the setting of the write-protect tab.",
+         "STEP 8: Place bare DVD-RAM media back in cartridge for storage.",
+         "STEP 9: Close cartridge lid once DVD-RAM media is fully inserted into cartridge."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+COMPOSE_REPORT_DATAEXPORT/////////////////
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to data export and compose report?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: From the Patient List, select the series you want to export.",
+          "*Only one series can be exported at a time.",
+          "STEP 3: From the Data Apps list, click Data Export.",
+          "*Click Compose if it is not selected.",
+          "STEP 4: Review the images in the Compose image viewport.",
+          "*Middle-click and drag to adjust the W/L1.",
+          "*Right-click and drag to adjust zoom factor.",
+          "*Click and drag to scroll.",
+          "*Press Page Up or Page Down to navigate through the images.",
+          "*Click Play to view the images in a cine loop.",
+          "STEP 5:Click the Conversion Format menu and select an image format for the currently selected data set that is compatible with the movie player on your PC or laptop.",
+          "STEP 6: In the Image Range Selection area, choose your desired image range.",
+          "*If you want a subset of the images, select Custom, and then type the range in the text box.",
+          "STEP 7: Move the Compression Factor slider to select a value.",
+          "*The smaller the number, the higher the image quality and the larger the file size.",
+          "STEP 8: In the Annotation area, choose your desired annotation display format.",
+          "*If you want the patient name to be displayed as Anonymous with the exam number, selectAnonymous.",
+          "STEP 9: Once you are satisfied with the image appearance (W/L, zoom, scroll), select Propagate Image Operations.",
+          "STEP 10: Type a name for both the report and the folder (use no spaces or characters other than alpha numeric).",
+          "STEP 11: Click Add to Report.",
+          "*If you change your mind and decide not to add the data to the report, click Cancel from the progress bar screen.",
+          "STEP 12: To add another data set to the report, repeat these steps.",
+          "STEP 13: Click the Export tab to export the report (for details see the Export a report procedure) or click Quit ."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+EXPORT_REPORT//////////////
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to export a report?", 
+        "text": [
+          "STEP 1: Click the ImageWorks icon.",
+          "STEP 2: From the Patient List, select the series you want to export. Only one series can be exported at a time.",
+          "STEP 3: From the Data Apps list, click Data Export.",
+          "STEP 4: Click the Export tab to open the Data Export Export screen.",
+          "STEP 5: In the Export Report Name list, select the desired report.",
+          "STEP 6: In the Folder Name, Type Name, and Image Name lists, select the desired data set.",
+          "STEP 7: Optional: Type a message in the Comment text field. Do not press Enter, the system will adjust the text for the final report.",
+          "STEP 8: Choose a Conversion format, typically HTML.",
+          "STEP 9: Create a CD, if desired.",
+          "*a. To burn the report to a CD, place a compatible CD-R into the DVD-RW drive.",
+          "*This is not the drive housed in the computer cabinet but rather the box that houses the CD/DVD drives located on the desk.",
+          "*The only compatible media for Data Export is CD-R 700 MB with at least 4X write speed. DVD- R is not supported. If a DVD-R is placed in the drive, the system will write to this media, but the integrity of the data cannot be guaranteed and the time for the system to recognize the media will be excessive.",
+          "*Wait until the system has sensed the media and the drive light goes off before clicking Create CD or USB. If you click an option too quickly, amessage displays to notify you that there is "no media in the drive" or that there is "no media available".",
+          "*b. Click Create CD.",
+          "*Carefully seat the media in the drive. Wait until the drive has sensed the media and the drive light goes off before clicking Create CD. If you click Create CD too quickly a "no media in the drive" message displays.",
+          "*Click OK to start the writing process.",
+          "*A message displays while the CD is written. When the CD writing step is completed, the CD ejects from the drive.",
+          "*d. Click OK to the CD Written Successful prompt.",
+          "STEP 10: FTP the data, if desired.",
+          "*a. Click Send FTP to send the data to an IP address.",
+          "*b. Complete all the fields on the FTP window and click OK.",
+          "*c. Click OK to the Successful File transfer prompt.",
+          "*11. Copy the data to USB, if desired.",
+          "*a. Select an USB device.",
+          "*b. Click Save.",
+          "*12. Click Quit.",
+          "*Reports stay listed in the Export tab until you remove them.",
+          "*Consider the length of time you need to keep the file in the program based on if you need to, more."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+VIEW_REPORT_ON_PC///////////////
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to view a report on PC?", 
+        "text": [
+          "STEP 1: Place the CD in the CD drive of a PC or laptop running Windows 2000 or XP.",
+          "STEP 2: The CD launches automatically.",
+                 "*If it does not automatically start, click on the My Computer icon and open your CD or USB drive. Click INDEX to open the file.",
+                  "*The report opens and displays from an Internet browser.",
+                  "*Place the cursor over an image and click to magnify the image. Click the Back arrow on menu bar to return to the report.:,
+         "STEP 3: When finished viewing the report, select File > Close to close the Internet browser.",
+         "STEP 4: Remove the CD from the drive and store it."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+DELITE_ITEMS///////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to delite items from the data export screen?", 
+        "text": [
+          "STEP 1: From the Data Export screen, click the Export tab.",
+          "STEP 2: From the Export tab, select an item on any of the lists (Report, Folder, Type, or Image).",
+          "STEP 3: Click the Delete icon.",
+                  "*Items not deleted/removed remain on the list after you click Quit."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+EDIT_PATIENT_INFORMATION///////////////////////////////
+
+
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to edit patient information once the exam has been completed?", 
+        "text": [
+          "* Use Edit Patient during idle times in network receive, active recon, or archive restore. The system may hang if Edit Patient is started while the following operations are in progress:",
+          "*Network Receive",
+          "*Prospective or Retrospective reconstruction",
+          "*Archive Restore",
+"         *Film",
+          "*You cannot edit contrast or patient weight.",
+          "*Edit Patient will not update scan data files or completed patient information.",
+          "*If you edit an exam that has a saved 3D model, the 3D model is deleted from the exam. If you edit an exam and you have the 3D model selected when you select Edit Patient, you will not be able to edit the exam.",
+          "*There must be sufficient disk space available.",
+          "*All images should be reconstructed before editing. All remove images and post-processing (screen saves, reformat, 3D surface) should be done before editing. All images created after the edit do NOT contain the edited information.",
+          "*Any DICOM secondary screen captures such as Dose Report and SmartPrep screen save will be deleted from the exam with Edit Patient Data."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
